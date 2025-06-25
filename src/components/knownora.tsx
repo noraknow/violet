@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function knownora() {
+export default function KnowNora() {
     return (
         <div>knownora</div>
     )
